@@ -1,0 +1,31 @@
+body {
+background: linear-gradient( #ee7752, #e73c7e, #23a6d5, #23d5ab);
+background-size: 400% 400%;
+margin: auto
+    
+         
+ }
+
+ 
+     }
+h1{ text-shadow: 2px 2px #0047ab; font-size: 50px;}
+menu { list style: none;
+font-family: cursive; float:right; top:10px; right:30px; cursor: pointer; color: #aaa9ad}
+ }
+
+ .links:hover {
+     background-color: cornflowerblue;
+     
+    
+ }
+     
+myimages {height: 300px; width 450px}
+
+h2 {font-size: 40px; font-family: cursive;}
+
+h6 {font-size:  40px ;  font-family: cursive;}
+
+h10{font-size:  40px ;  font-family: cursive;}
+    
+     
+html {scroll-behavior: smooth;}
